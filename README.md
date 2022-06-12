@@ -1,3 +1,3 @@
-# Dart Learning
+# Fluetter and Dart Learning
 
-Repository to apply my studies in Dart Lang.
+Moonrepo to apply my studies in the Dart Lang and Fluter
